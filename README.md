@@ -50,15 +50,15 @@ The goal is to build a **high-accuracy predictive model** to assist stakeholders
 
 ## Machine Learning Models  
 
-| Model     
-| **Decision Tree**
-| **Logistic Regression**
-| **Support Vector Machine (SVM)** 
-| **XGBoost**
+**Models:**
+- **Decision Tree**
+- **Logistic Regression**
+- **Support Vector Machine (SVM)**
+- **XGBoost**
 
 **Evaluation Metrics:**
 - **Training Accuracy**: Performance on training data  
 - **Testing Accuracy**: Performance on unseen data  
 - **Overfitting Check**: Difference between training and testing accuracy
-- 
+
 ---
